@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Jar 反编译",
+    "description": "封装 cfr 与 rg，提供反编译、源码检索与按类读取三个工具。"
+  }
+}

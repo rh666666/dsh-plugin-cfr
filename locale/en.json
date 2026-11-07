@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Jar decompiler",
+    "description": "Wraps cfr and ripgrep to decompile jars, search sources, and read classes."
+  }
+}

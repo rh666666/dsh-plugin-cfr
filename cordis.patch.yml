@@ -1,0 +1,8 @@
+- insert:
+    - id: jar-cfr
+      name: dsh-plugin-cfr
+      config:
+        cacheDir: ''
+        javaPath: java
+        cfrJar: ''
+        rgPath: ''
